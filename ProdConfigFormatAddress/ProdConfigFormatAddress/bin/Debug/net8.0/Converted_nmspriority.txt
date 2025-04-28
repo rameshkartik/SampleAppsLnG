@@ -1,0 +1,10 @@
+NameEmpty|net.msmq://localhost/private/%Instance%SBSInboundNMSPriorityMsgProcessor/NMSPriorityMessageProcessor.svc 
+NameEmpty|net.msmq://localhost/private/%Instance%SBSInboundNMSPriorityMsgProcessor/NMSPriorityMessageProcessor.svc;poison 
+ApplicationControlEvents|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/ApplicationService${INSTANCE_NAME}/ControlEvent.svc 
+PlatformGNDConverterControlEventsService|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/PlatformGNDConverter/%Instance%ControlEventsService/ControlEventsService_NamedPipe 
+ApplicationControlEvents0|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/ApplicationService${INSTANCE_NAME}/ControlEvent.svc 
+SBSNMSEvents_NamedPipe|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/%Instance%SBSInboundNMSEventsProcessor/NMSEventProcessor.svc/SBSNMSEvents_NamedPipe 
+SBSNMSEvents_NamedPipe_EndpointCache|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/%Instance%SBSInboundNMSEventsProcessor/EndpointCacheProcessor.svc 
+CollectorCommunicationUpdateService|net.msmq://localhost/private/%Instance%SBSInboundNetworkCommunicationProcessor/CollectorCommunicationService 
+NetworkDeviceCommunicationService|net.msmq://localhost/private/%Instance%SBSInboundNetworkCommunicationProcessor/NetworkDeviceCommunicationService 
+ApplicationIdentityManagement|%INSTALLER_HTTP_PROTOCOL%://%INSTALLER_SBSServer_NAME%:%SBS_App_Server_Port%/Webservice${INSTANCE_NAME}/IdentityManagementService.svc 

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProdConfigFormatAddress/1.0.0": {
+        "dependencies": {
+          "ProdConfigFormatAddressLib": "1.0.0"
+        },
+        "runtime": {
+          "ProdConfigFormatAddress.dll": {}
+        }
+      },
+      "ProdConfigFormatAddressLib/1.0.0": {
+        "runtime": {
+          "ProdConfigFormatAddressLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProdConfigFormatAddress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProdConfigFormatAddressLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

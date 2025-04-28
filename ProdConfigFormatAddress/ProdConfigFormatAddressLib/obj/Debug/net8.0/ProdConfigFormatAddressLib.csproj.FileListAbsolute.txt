@@ -1,0 +1,11 @@
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\bin\Debug\net8.0\ProdConfigFormatAddressLib.deps.json
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\bin\Debug\net8.0\ProdConfigFormatAddressLib.dll
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\bin\Debug\net8.0\ProdConfigFormatAddressLib.pdb
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.AssemblyInfoInputs.cache
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.AssemblyInfo.cs
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.csproj.CoreCompileInputs.cache
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.dll
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\refint\ProdConfigFormatAddressLib.dll
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ProdConfigFormatAddressLib.pdb
+C:\SourceCode\Samples\ProdConfigFormatAddress\ProdConfigFormatAddressLib\obj\Debug\net8.0\ref\ProdConfigFormatAddressLib.dll
