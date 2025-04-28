@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KUoEz33hGDS6c/hard3to3vjEhTac22/uPIvKCdFCn8pHVsmPCU4c/yCD9dIpZ4KR+Ln6NHzF7J43d7LQH+LQ==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Samples\\SMBConsole\\SMBConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSR\\.nuget\\packages\\smblibrary\\1.5.4\\smblibrary.1.5.4.nupkg.sha512",
+    "C:\\Users\\RSR\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaGLXxhdPRxltaIziWDqnkxgbJw1SH7tHguGbon4+y/uy4axiY4RGohTrzlSUa+mBgduvbGdfaT4FjPoHjXBpw==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Samples\\SMBWriteLibrary\\SMBWriteLibrary\\SMBWriteLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSR\\.nuget\\packages\\smblibrary\\1.5.4\\smblibrary.1.5.4.nupkg.sha512",
+    "C:\\Users\\RSR\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

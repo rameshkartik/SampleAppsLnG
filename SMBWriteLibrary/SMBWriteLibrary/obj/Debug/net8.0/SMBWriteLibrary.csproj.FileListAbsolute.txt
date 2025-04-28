@@ -1,0 +1,12 @@
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\bin\Debug\net8.0\SMBWriteLibrary.deps.json
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\bin\Debug\net8.0\SMBWriteLibrary.dll
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\bin\Debug\net8.0\SMBWriteLibrary.pdb
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.csproj.AssemblyReference.cache
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.AssemblyInfoInputs.cache
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.AssemblyInfo.cs
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.csproj.CoreCompileInputs.cache
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.dll
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\refint\SMBWriteLibrary.dll
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\SMBWriteLibrary.pdb
+C:\SourceCode\Samples\SMBWriteLibrary\SMBWriteLibrary\obj\Debug\net8.0\ref\SMBWriteLibrary.dll
