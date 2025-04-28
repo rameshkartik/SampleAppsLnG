@@ -1,0 +1,14 @@
+C:\SourceCode\Samples\testAppPath\testAppPath\bin\Debug\net8.0\testAppPath.exe
+C:\SourceCode\Samples\testAppPath\testAppPath\bin\Debug\net8.0\testAppPath.deps.json
+C:\SourceCode\Samples\testAppPath\testAppPath\bin\Debug\net8.0\testAppPath.runtimeconfig.json
+C:\SourceCode\Samples\testAppPath\testAppPath\bin\Debug\net8.0\testAppPath.dll
+C:\SourceCode\Samples\testAppPath\testAppPath\bin\Debug\net8.0\testAppPath.pdb
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.AssemblyInfoInputs.cache
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.AssemblyInfo.cs
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.csproj.CoreCompileInputs.cache
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.dll
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\refint\testAppPath.dll
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.pdb
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\testAppPath.genruntimeconfig.cache
+C:\SourceCode\Samples\testAppPath\testAppPath\obj\Debug\net8.0\ref\testAppPath.dll
