@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xm7178XVm7xcpYsrYFzj2CQLJODmtaK0FGFIdoZf/Yr8cUr+1Ibv+UwSlaut9sxrTEWaf9olV1FmTk6yQfV+HQ==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Tool\\Config2AppSettings\\Config2AppSettings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

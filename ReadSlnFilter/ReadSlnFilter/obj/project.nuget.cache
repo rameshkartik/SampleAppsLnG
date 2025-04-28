@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ic+lGPBWsV+UGuuN1XnKGT6/v+UKAZlTYJMwMhLnJQDWdEh7ssBkMVy3Q3RiszhlgI+8Q7/IVaYNrHDmlCN2PA==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Tool\\ReadSlnFilter\\ReadSlnFilter\\ReadSlnFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

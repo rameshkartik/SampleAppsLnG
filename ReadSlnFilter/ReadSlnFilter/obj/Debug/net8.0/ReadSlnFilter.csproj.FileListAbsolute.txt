@@ -1,0 +1,12 @@
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\bin\Debug\net8.0\ReadSlnFilter.deps.json
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\bin\Debug\net8.0\ReadSlnFilter.dll
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\bin\Debug\net8.0\ReadSlnFilter.pdb
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.AssemblyInfoInputs.cache
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.AssemblyInfo.cs
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.csproj.CoreCompileInputs.cache
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.dll
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\refint\ReadSlnFilter.dll
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.pdb
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ref\ReadSlnFilter.dll
+C:\SourceCode\Tool\ReadSlnFilter\ReadSlnFilter\obj\Debug\net8.0\ReadSlnFilter.csproj.AssemblyReference.cache
