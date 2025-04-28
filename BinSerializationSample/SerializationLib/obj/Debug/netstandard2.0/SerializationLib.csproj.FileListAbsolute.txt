@@ -1,0 +1,5 @@
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\netstandard2.0\SerializationLib.csproj.AssemblyReference.cache
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\netstandard2.0\SerializationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\netstandard2.0\SerializationLib.AssemblyInfoInputs.cache
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\netstandard2.0\SerializationLib.AssemblyInfo.cs
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\netstandard2.0\SerializationLib.csproj.CoreCompileInputs.cache

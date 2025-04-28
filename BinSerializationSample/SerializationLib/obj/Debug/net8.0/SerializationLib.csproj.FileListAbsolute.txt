@@ -1,0 +1,12 @@
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\bin\Debug\net8.0\SerializationLib.deps.json
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\bin\Debug\net8.0\SerializationLib.dll
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\bin\Debug\net8.0\SerializationLib.pdb
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.AssemblyInfoInputs.cache
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.AssemblyInfo.cs
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.csproj.CoreCompileInputs.cache
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.dll
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\refint\SerializationLib.dll
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.pdb
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\ref\SerializationLib.dll
+C:\SourceCode\Samples\BinSerializationSample\SerializationLib\obj\Debug\net8.0\SerializationLib.csproj.AssemblyReference.cache

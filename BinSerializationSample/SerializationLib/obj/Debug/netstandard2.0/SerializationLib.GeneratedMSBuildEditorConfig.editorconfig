@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SerializationLib
+build_property.ProjectDir = C:\SourceCode\Samples\BinSerializationSample\SerializationLib\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
